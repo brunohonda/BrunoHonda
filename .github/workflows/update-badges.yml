@@ -11,4 +11,3 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@master
-          CREDLY_USER:bruno-honda
