@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 My Badges
 <!--START_SECTION:badges-->
-
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png)](http://www.credly.com/badges/2a92841f-5d64-4421-97b5-55c922563a17 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
