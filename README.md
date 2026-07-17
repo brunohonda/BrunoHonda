@@ -1,21 +1,36 @@
-### Hi there 👋
+# Bruno Honda
 
-<!--
-**brunohonda/BrunoHonda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! 👋
 
-Here are some ideas to get you started:
+Sou um desenvolvedor Full Stack com foco em construir aplicações web modernas, funcionais e com boa experiência para o usuário. Tenho interesse em desenvolvimento front-end e back-end, automação de processos e soluções que tragam eficiência e qualidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
 
-My Badges
-<!--START_SECTION:badges-->
-[![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](http://www.credly.com/badges/2a92841f-5d64-4421-97b5-55c922563a17 "AWS Certified Cloud Practitioner")
-<!--END_SECTION:badges-->
+- Desenvolvimento de aplicações web com Angular, TypeScript, JavaScript e Node.js
+- Criação de interfaces responsivas e bem estruturadas com HTML/CSS
+- Foco em código limpo, organização e boas práticas
+- Interesse em automação, produtividade e melhoria contínua
+
+## Tecnologias
+
+- Frontend: Angular, TypeScript, JavaScript, HTML5, CSS3
+- Backend: Node.js
+- Ferramentas: Git, Bash, VS Code
+
+## Atualmente
+
+- Construindo projetos com foco em experiência do usuário e qualidade de implementação
+- Aprimorando minhas habilidades em desenvolvimento e automação
+
+## Projetos e repositórios
+
+- [Ver meus repositórios](https://github.com/brunohonda?tab=repositories)
+
+## Contato
+
+- LinkedIn: (https://www.linkedin.com/in/brunohonda/)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunohonda&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
